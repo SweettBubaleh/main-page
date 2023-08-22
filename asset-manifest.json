@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/main-page/static/css/main.33fdf31c.css",
+    "main.js": "/main-page/static/js/main.88e5e100.js",
+    "static/media/header-img.jpg": "/main-page/static/media/header-img.3266b145a803ea6064bc.jpg",
+    "static/media/promo-img.jpg": "/main-page/static/media/promo-img.527fa310359de2170668.jpg",
+    "static/media/promo-01.jpg": "/main-page/static/media/promo-01.4fc3ca39e368bb92d886.jpg",
+    "static/media/vouchers-img.png": "/main-page/static/media/vouchers-img.254242f146515a766546.png",
+    "static/media/cat-03.jpg": "/main-page/static/media/cat-03.eb55f780a8fbbaf39b98.jpg",
+    "static/media/cat-01.jpg": "/main-page/static/media/cat-01.c4e2270f3eab9f7477cf.jpg",
+    "static/media/promo-02.jpg": "/main-page/static/media/promo-02.27a2e3f6b94c48d6427b.jpg",
+    "static/media/cat-02.jpg": "/main-page/static/media/cat-02.da44a5e6d64780d948d6.jpg",
+    "static/media/Shopify.png": "/main-page/static/media/Shopify.b4131342ebf309c24258.png",
+    "static/media/Amazon.png": "/main-page/static/media/Amazon.7897112af9316cea076c.png",
+    "static/media/logo.svg": "/main-page/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "static/media/inst.svg": "/main-page/static/media/inst.732079676e1f1e8f5ab8d3607bb89ff5.svg",
+    "static/media/tw.svg": "/main-page/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
+    "static/media/in.svg": "/main-page/static/media/in.4129b910559039efab168699f9e7c86f.svg",
+    "index.html": "/main-page/index.html",
+    "static/media/arrow.svg": "/main-page/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/main-page/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
+    "static/media/decor-yellow.svg": "/main-page/static/media/decor-yellow.a14a51327547871fd595.svg",
+    "main.33fdf31c.css.map": "/main-page/static/css/main.33fdf31c.css.map",
+    "main.88e5e100.js.map": "/main-page/static/js/main.88e5e100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fdf31c.css",
+    "static/js/main.88e5e100.js"
+  ]
+}
