@@ -1,0 +1,135 @@
+.footer {
+  background-color: #000000;
+  padding: 70px 100px;
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__right {
+    display: flex;
+    column-gap: 90px;
+  }
+
+  &__right__left ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__right__left span {
+    color: #d9d9d9;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+
+  &__right__left li {
+    margin-bottom: 32px;
+    color: #8e8e8e;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+
+  &__left__header__title {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    margin-bottom: 32px;
+  }
+
+  &__left__desc {
+    color: #8e8e8e;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+    margin-bottom: 32px;
+  }
+
+  &__left__row ul {
+    display: flex;
+    align-items: center;
+    column-gap: 14px;
+  }
+}
+
+.footer {
+  &__right__midlle {
+    display: flex;
+    column-gap: 90px;
+  }
+
+  &__right__midlle ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__right__midlle span {
+    color: #d9d9d9;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+
+  &__right__midlle li {
+    margin-bottom: 32px;
+    color: #8e8e8e;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+}
+
+.footer {
+  &__right__right {
+    display: flex;
+    column-gap: 90px;
+  }
+
+  &__right__right ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__right__right span {
+    color: #d9d9d9;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+
+  &__right__right li {
+    margin-bottom: 32px;
+    color: #8e8e8e;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */
+    letter-spacing: 0.4px;
+  }
+}

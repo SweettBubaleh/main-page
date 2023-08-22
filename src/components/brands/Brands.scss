@@ -1,0 +1,13 @@
+@import "../../styles/common.scss";
+
+.brands {
+  background-color: $yellow;
+  padding: 58px 173px;
+
+  &__list {
+    display: flex;
+    align-items: center;
+    column-gap: 120px;
+    mix-blend-mode: multiply;
+  }
+}

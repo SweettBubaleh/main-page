@@ -1,0 +1,13 @@
+.young {
+  margin-bottom: 200px;
+
+  &__header {
+    margin-bottom: 118px;
+  }
+
+  &__cards {
+    display: flex;
+    align-items: center;
+    column-gap: 48px;
+  }
+}

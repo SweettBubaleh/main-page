@@ -1,0 +1,50 @@
+@import "../../styles/common.scss";
+
+.header {
+  padding: 46px 0 56px;
+
+  &__row {
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+
+    & span {
+      font-weight: 900;
+      font-size: 40px;
+      line-height: 1.5;
+      letter-spacing: 0.03em;
+      color: $mainColor;
+      text-transform: uppercase;
+    }
+  }
+
+  &__nav ul {
+    display: flex;
+    align-items: center;
+    column-gap: 65px;
+    color: $mainColor;
+  }
+
+  &__nav a {
+    color: $mainColor;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+  }
+
+  a.header__nav-btn {
+    padding: 13px 22px 17px;
+    background-color: $mainColor;
+    border-radius: 7px;
+
+    color: rgb(255, 255, 255);
+  }
+}

@@ -1,0 +1,43 @@
+.voucher {
+  margin-bottom: 220px;
+
+  &__content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  &__title {
+    color: #000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%;
+    letter-spacing: 2.88px;
+    max-width: 510px;
+    margin-bottom: 41px;
+  }
+
+  &__desc {
+    color: #7c7c7c;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px; /* 145.833% */
+    letter-spacing: -0.96px;
+    max-width: 419px;
+    margin-bottom: 65px;
+  }
+
+  &__stores {
+    display: flex;
+    column-gap: 10px;
+
+    &-btn {
+      max-width: 220px;
+      max-height: 71px;
+    }
+  }
+}

@@ -1,0 +1,62 @@
+@import "../../styles/common.scss";
+
+.banner {
+  margin-bottom: 190px;
+  background-color: #ffd900;
+
+  &__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 86px;
+  }
+
+  &__title {
+    max-width: 593px;
+    color: $mainColor;
+    font-size: 111.608px;
+    font-weight: 900;
+    line-height: 137.185px;
+    text-transform: uppercase;
+    margin-bottom: 33px;
+  }
+
+  &__desc {
+    color: $mainColor;
+    max-width: 643px;
+    font-size: 36.04px;
+    font-weight: 500;
+    line-height: 52.316px; /* 145.161% */
+    letter-spacing: -0.721px;
+    margin-bottom: 40px;
+  }
+
+  &__date {
+    color: $mainColor;
+    font-size: 36.04px;
+    font-weight: 700;
+    line-height: 52.316px; /* 145.161% */
+    letter-spacing: -0.721px;
+    margin-bottom: 10px;
+  }
+
+  &__warn {
+    color: $mainColor;
+    font-size: 36.04px;
+    font-weight: 400;
+    line-height: 52.316px; /* 145.161% */
+    letter-spacing: -0.721px;
+    margin-bottom: 45px;
+  }
+
+  &__btn {
+    border-radius: 10px;
+    background-color: $mainColor;
+    padding: 18px 40px;
+
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: -1.5px;
+  }
+}
